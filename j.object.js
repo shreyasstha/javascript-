@@ -130,5 +130,6 @@ console.log('I have a', myHouseDetails.colorofHouse ,'colored house with',
  'storey and was built in', myHouseDetails.builtYear ,
 'with an estimated budget of', myHouseDetails.estimatedPriceOfHouse);
 
+gogoggog
 
 
