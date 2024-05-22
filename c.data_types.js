@@ -23,21 +23,21 @@
 // console.log(x, typeof x)
 
 //?boolean(t/f)
-// let isGrade=true;
-// console.log(isGrade,typeof isGrade)  //op:true boolean
+let isGrade=true;
+console.log('for boolean: ' , isGrade,typeof isGrade)  //op:true boolean
 
 //?undefined
-// let a; //op:undefined undefined
-// console.log(a, typeof a)
+let a; //op:undefined undefined
+console.log(a, typeof a)
 
 //?null
-//let user =null;
-//console.log(user,typeof user)  //typeof user:object =>bug
+let user =null;
+console.log(user,typeof user)  //typeof user:object =>bug
 
 //?object
-// const studentDetails={
-//     name:'A',
-//     address: 'bkt',
-// };
-// console.log(typeof studentDetails)
+const studentDetails={
+    name:'A',
+    address: 'bkt',
+};
+console.log(typeof studentDetails)
 

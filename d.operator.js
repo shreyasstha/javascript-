@@ -10,13 +10,13 @@
 //?4.logical: NOT(!) AND(&&) OR(||)
 
 //?1.check if 25 is even or odd
-// let x=25;
-// if(25%2 ==0){
-//     console.log("even number");
-// }
-// else{
-//     console.log("odd number")
-//}
+ let x=25;
+ if(25%2 ==0){
+     console.log("even number");
+ }
+ else{
+     console.log("odd number")
+}
 
 //console.log(25%2)
 
