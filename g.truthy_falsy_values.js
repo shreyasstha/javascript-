@@ -1,10 +1,10 @@
-//falsy vale => false, "", null, undefined, 0, -0, NaN
+//?falsy value => false, "", null, undefined, 0, -0, NaN
 
 // if(null){
 //     console.log('hello');
 // }
 
-//truthy value => all value except falsy 
+//?truthy value => all value except falsy 
 // if(5/2){
 //     console.log('hello')  //as condition is true
 // }

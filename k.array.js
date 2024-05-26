@@ -100,7 +100,7 @@ const newList =washingMachineList.map((item, index, array) =>{
 })
 console.log(newList)
 
-object copy =>read
+//object copy =>read
 
 
 
