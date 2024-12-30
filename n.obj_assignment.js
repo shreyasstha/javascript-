@@ -28,4 +28,4 @@ console.log('I have a', myHouseDetails.colorofHouse ,'colored house with',
  'storey and was built in', myHouseDetails.builtYear ,
 'with an estimated budget of', myHouseDetails.estimatedPriceOfHouse);
 
-console.log(`I have a ${myHouseDetails.col}`)
+console.log(`I have a ${myHouseDetails.col}`);

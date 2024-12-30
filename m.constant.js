@@ -23,7 +23,7 @@ const nationDetails ={
 // }  cannot be re assigned
 
 nationDetails.name ='India'
-console.log(nationDetails)
+console.log(nationDetails);
 
 
 //git clone link
